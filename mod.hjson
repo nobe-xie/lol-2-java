@@ -1,8 +1,8 @@
 #the mod name as displayed in-game
-displayName: "Java Mod Template"
+displayName: "lol2-java"
 
 #the internal name of your mod
-name: "example-java-mod"
+name: "lol2"
 
 #your name
 author: "You"
